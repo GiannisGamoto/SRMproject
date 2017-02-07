@@ -1,0 +1,10 @@
+public key private key googling around. I understood the concept
+
+putty 
+
+directions on how to create an SSH key
+https://docs.joyent.com/public-cloud/getting-started/ssh-keys/generating-an-ssh-key-manually/manually-generating-your-ssh-key-in-windows
+
+
+public key 
+ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAwF6RohUIRrMrzwqunFnH9R7CUQyvVpjMVFYfDbPmwHrdKle9bxgDSzRqCLjdJscT7Vfr6chYfGx+X+G0i2of6XZPSrTGsa/WOuE4ssmdCT/j1eRcnj8wgBE23Ldej78Q7n7JSTzA8XF8/inNTlJFqJFHaFiwlQ5czloawCnPc4HPNtMtOd7quJRIbY5715WUnquiSAXexY3VymTW8gOL3qaaQxbfR15R1kIITWbRPAAuTw0rPMK0DRYZsaIKrQoWMIjSI4tj29kAgW1JTCQVmgvZvt813A7LkVLDK758Hz52UttKPf5vni6wCVHfajHjcxS2al/00qVnMxPBYpT1Vw== rsa-key-20170207
